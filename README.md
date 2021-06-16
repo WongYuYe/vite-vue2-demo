@@ -1,24 +1,6 @@
-# vite-vue2-demo2
+# vite-vue2-demo
 
-## Project setup
-```
-yarn install
-```
+### 借助vite-plugin-vue2实现vue2工程的vite开发接入
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 改造流程
+[vite+vue2 go~](https://www.yuque.com/xiaoye-urxn3/lcz002/atz26k)
